@@ -1,0 +1,16 @@
+{
+  "name": "Muslim Pro AR DEVELOPER",
+  "short_name": "MuslimApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4ade80", 
+  "icons": [
+    {
+      "src": "logo-masjid.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
